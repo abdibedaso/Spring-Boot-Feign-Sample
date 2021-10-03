@@ -1,5 +1,5 @@
-# Spring
-Spring-Boot-Feign-Sample
+# Spring-Cloud-OpenFeign
+- Spring-Boot-Feign-Sample
 
 ## Modules
 - AccountServiceApplication
